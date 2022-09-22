@@ -1,0 +1,2 @@
+- Change the background
+- Change a bitmap character
