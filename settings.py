@@ -8,8 +8,9 @@ class Settings:
         self.screen_height = 400    # 800
         self.bg_color = (230, 230, 230)
 
-        # Sgip settings
+        # Ship settings
         self.ship_speed = 1.5
+        self.ship_limit = 3
 
         # Bullet settings
         self.bullet_speed = 1.0
